@@ -1,0 +1,10 @@
+
+# Environment variable
+.env
+
+# Environment packages
+env
+
+# PyCache folders
+__pycache__
+
